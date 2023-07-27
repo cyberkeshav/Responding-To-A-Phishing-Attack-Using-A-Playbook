@@ -17,7 +17,7 @@ Be sure to address the following steps in your completed activity:
 
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Resources Used</h2>
 
 - <b>Phishing Incident Response Playbook</b> 
 
